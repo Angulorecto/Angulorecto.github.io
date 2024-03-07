@@ -1,7 +1,7 @@
-permalink: /next/
+permalink: "/:next/"
 defaults:
   -
     scope:
       path: "pages/"
     values:
-      permalink: /next/
+      permalink: "/:next/"
