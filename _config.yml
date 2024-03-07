@@ -1,1 +1,8 @@
 permalink: /next/
+{% raw %}defaults:
+  -
+    scope:
+      path: "pages/"
+    values:
+      permalink: /next/
+{% endraw %}
