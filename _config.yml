@@ -3,6 +3,6 @@ permalink: /:title/
 defaults:
   -
     scope:
-      path: "pages/next.html"
+      path: "games/next.html"
     values:
       permalink: /next/
